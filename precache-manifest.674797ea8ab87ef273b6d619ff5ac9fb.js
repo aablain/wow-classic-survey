@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/wow-classic-survey/static/css/main.9f68f35e.chunk.css"
   },
   {
-    "revision": "8c5e3d41f41ca316611953646ecaf223",
+    "revision": "2f074f83509c9c38dfe48971d7939fd0",
     "url": "/wow-classic-survey/index.html"
   }
 ];
