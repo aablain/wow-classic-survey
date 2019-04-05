@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/wow-classic-survey/static/js/runtime~main.b163ddd3.js"
   },
   {
-    "revision": "d84bdde3a2fbb51a3e0e",
-    "url": "/wow-classic-survey/static/js/main.8f6df24c.chunk.js"
+    "revision": "6536f5c36738e4ed6b13",
+    "url": "/wow-classic-survey/static/js/main.91d5bff0.chunk.js"
   },
   {
     "revision": "532aa59cda9070bd52a8",
     "url": "/wow-classic-survey/static/js/2.825c53e4.chunk.js"
   },
   {
-    "revision": "d84bdde3a2fbb51a3e0e",
-    "url": "/wow-classic-survey/static/css/main.bc3cccf8.chunk.css"
+    "revision": "6536f5c36738e4ed6b13",
+    "url": "/wow-classic-survey/static/css/main.a5bb0168.chunk.css"
   },
   {
-    "revision": "870e765a07a513476ab7a4210f6b451f",
+    "revision": "c165a8f6a3625f931945b6389724ca43",
     "url": "/wow-classic-survey/index.html"
   }
 ];

@@ -1,13 +1,13 @@
 {
-  "main.css": "/wow-classic-survey/static/css/main.bc3cccf8.chunk.css",
-  "main.js": "/wow-classic-survey/static/js/main.8f6df24c.chunk.js",
-  "main.js.map": "/wow-classic-survey/static/js/main.8f6df24c.chunk.js.map",
+  "main.css": "/wow-classic-survey/static/css/main.a5bb0168.chunk.css",
+  "main.js": "/wow-classic-survey/static/js/main.91d5bff0.chunk.js",
+  "main.js.map": "/wow-classic-survey/static/js/main.91d5bff0.chunk.js.map",
   "runtime~main.js": "/wow-classic-survey/static/js/runtime~main.b163ddd3.js",
   "runtime~main.js.map": "/wow-classic-survey/static/js/runtime~main.b163ddd3.js.map",
   "static/js/2.825c53e4.chunk.js": "/wow-classic-survey/static/js/2.825c53e4.chunk.js",
   "static/js/2.825c53e4.chunk.js.map": "/wow-classic-survey/static/js/2.825c53e4.chunk.js.map",
   "index.html": "/wow-classic-survey/index.html",
-  "precache-manifest.c4e243917e9afac0ffec4dadd099d4be.js": "/wow-classic-survey/precache-manifest.c4e243917e9afac0ffec4dadd099d4be.js",
+  "precache-manifest.2b61c76feb9ae8b9a903ebafb2d24ed5.js": "/wow-classic-survey/precache-manifest.2b61c76feb9ae8b9a903ebafb2d24ed5.js",
   "service-worker.js": "/wow-classic-survey/service-worker.js",
-  "static/css/main.bc3cccf8.chunk.css.map": "/wow-classic-survey/static/css/main.bc3cccf8.chunk.css.map"
+  "static/css/main.a5bb0168.chunk.css.map": "/wow-classic-survey/static/css/main.a5bb0168.chunk.css.map"
 }
