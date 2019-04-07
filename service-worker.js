@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wow-classic-survey/precache-manifest.c918296d07071154c17c898b87294f37.js"
+  "/wow-classic-survey/precache-manifest.9b67be44a504924701e9ad31d0e2c336.js"
 );
 
 workbox.clientsClaim();
